@@ -74,3 +74,12 @@ Projetos planejados incluem:
 Cada módulo deve gerar evidências práticas: configurações, exemplos, testes, decisões, erros encontrados, soluções e aprendizados.
 
 > Regra de segurança: nunca versionar senhas, tokens reais, chaves de API ou dados pessoais identificáveis.
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/automacao-no-code-low-code
