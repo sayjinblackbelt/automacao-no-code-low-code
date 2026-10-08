@@ -1,0 +1,8 @@
+*.xlsx
+*.xls
+cache_cnpj.json
+~$*
+__pycache__/
+*.pyc
+.venv/
+venv/
