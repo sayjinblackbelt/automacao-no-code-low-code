@@ -84,6 +84,21 @@ A implementação utiliza a BrasilAPI para consulta de CNPJ.
 
 A disponibilidade, limites de requisição e dados retornados dependem do serviço utilizado. O código possui espera entre consultas, novas tentativas e cache para reduzir requisições desnecessárias.
 
+## Validação v1.0
+
+**Status: validada em uso real.**
+
+A versão 1.0 foi executada com um relatório contendo **706 registros**, realizando o enriquecimento cadastral por CNPJ **sem erros**.
+
+Resultado da validação:
+
+- 706 registros processados;
+- consulta em lote funcionando;
+- dados cadastrais enriquecidos;
+- planilha final gerada corretamente;
+- nenhuma falha interrompeu o processamento;
+- automação utilizada com sucesso em uma demanda real.
+
 ## Evolução planejada
 
 - [x] Consulta de CNPJ em lote
