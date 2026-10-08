@@ -41,6 +41,14 @@ A prioridade é transformar conhecimento teórico em capacidade demonstrável de
 
 ## Projetos aplicados
 
+## Projeto: Consulta CNPJ em Lote
+
+Automação em Python para enriquecer relatórios Excel com endereço, bairro, cidade, UF e CEP a partir de CNPJs, utilizando API, cache e tratamento de erros.
+
+- Pasta: `projetos/consulta-cnpj-lote`
+- [Documentação e código](projetos/consulta-cnpj-lote/README.md)
+
+
 Os projetos serão preferencialmente baseados em problemas reais de processos administrativos e educacionais, utilizando dados fictícios ou anonimizados para preservar informações pessoais.
 
 Projetos planejados incluem:
